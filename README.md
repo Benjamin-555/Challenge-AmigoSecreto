@@ -11,7 +11,7 @@ Es una pagina web interactiva que agrega y sortea amigos. Resulta divertido ya q
   <li>Se sortea el amigo a traves del metodo Math.Random de JavaScript y sale un ganador aleatorio</li>
 </ul>
 
-![image](https://github.com/user-attachments/assets/21304d52-a837-455a-a036-ab45cda07d27)
+![AmigosApp](https://github.com/user-attachments/assets/54d583b6-d750-432c-93cb-61acc30e95a4)
 
 
 
