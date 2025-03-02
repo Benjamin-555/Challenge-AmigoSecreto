@@ -4,7 +4,16 @@ Este proyecto se trata de poner en practica nuestras habilidades que hemos apren
 <h3>⚛️Funcionalidad:</h3>
 Es una pagina web interactiva que agrega y sortea amigos. Resulta divertido ya que puedes jugar con familiares y amigos.
 
-![image](https://github.com/user-attachments/assets/3f08cb66-b634-4d96-bc3e-683d5e522327)
+<h4>Funciones:</h4>
+<ul>
+  <li> Agrega el amigo a traves de un input</li>
+  <li>Se añade el amigo en una lista</li>
+  <li>Se sortea el amigo a traves del metodo Math.Random de JavaScript y sale un ganador aleatorio</li>
+</ul>
+
+![image](https://github.com/user-attachments/assets/21304d52-a837-455a-a036-ab45cda07d27)
+
+
 
 
 
